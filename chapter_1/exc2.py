@@ -1,0 +1,6 @@
+print('Enter your name: ')
+name = input()
+print('Hello:', name)
+print()
+print('Press ENTER to exit...')
+input()
