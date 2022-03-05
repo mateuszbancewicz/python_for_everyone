@@ -23,14 +23,12 @@ def guess_the_number(guess):
             print('Your number is too small')
             print('\nThe number is...')
             guess = int(input())
-
-        elif the_number == guess:
-            return f'YAY!! Great, you guess the number in {tries} tries.\nThe numer is {guess}'
+    return f'YAY!! Great, you guess the number in {tries} tries.\nThe numer is {guess}.'
 
 
 if __name__ == '__main__':
     print('\tWelcome to the game: "Guess the Number"!')
-    print('\nI have number in my mind form 1 to 10.')
+    print('\nI have number in my mind from 1 to 10.')
     print('Guess it. You have 10 tries.')
     print('\nThe number is...')
     guess = int(input())

@@ -25,7 +25,6 @@ def correctness(guess, the_number, tries):
 
 
 def guess_the_number(the_number):
-    from exc4 import correctness
     tries = 1
     guess = random.randint(1, 2)
     result = correctness(guess=guess, the_number=the_number, tries=tries)
