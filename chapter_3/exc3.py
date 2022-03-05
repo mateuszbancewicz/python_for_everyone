@@ -12,13 +12,13 @@ def guess_the_number(guess):
         if tries == 10:
             return 'Your reach your tries limit'
 
-        elif the_number < guess:
+        if the_number < guess:
             tries += 1
             print('Your number is too high')
             print('\nThe number is...')
             guess = int(input())
 
-        elif the_number > guess:
+        if the_number > guess:
             tries += 1
             print('Your number is too small')
             print('\nThe number is...')
@@ -31,5 +31,5 @@ if __name__ == '__main__':
     print('\nI have number in my mind from 1 to 10.')
     print('Guess it. You have 10 tries.')
     print('\nThe number is...')
-    guess = int(input())
-    print(guess_the_number(guess=guess))
+    first_guess = int(input())
+    print(guess_the_number(guess=first_guess))

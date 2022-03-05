@@ -4,8 +4,8 @@ def counter(start, end, step):
 
 
 if __name__ == '__main__':
-    start = int(input("Give me a start number: "))
-    end = int(input("Now give me a finish number: "))
-    step = int(input("Step size: "))
+    s = int(input("Give me a start number: "))
+    e = int(input("Now give me a finish number: "))
+    st = int(input("Step size: "))
 
-    counter(start=start, end=end + 1, step=step)
+    counter(start=s, end=e + 1, step=st)

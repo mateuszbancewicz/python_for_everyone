@@ -12,4 +12,3 @@ def tip_calculator(bill):
 if __name__ == '__main__':
     print('How much you will pay?')
     print(tip_calculator(bill=float(input())))
-
