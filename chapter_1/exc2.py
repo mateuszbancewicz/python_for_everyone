@@ -1,6 +1,5 @@
 print('Enter your name: ')
 name = input()
-print('Hello:', name)
-print()
+print(f'Hello: name\n')
 print('Press ENTER to exit...')
 input()
