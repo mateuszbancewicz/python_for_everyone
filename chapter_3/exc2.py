@@ -12,9 +12,9 @@ def coin_flipper():
     while flips <= 100:
         coin = random.randint(1, 2)
         match coin:
-            case 1:     # for head
+            case 1:
                 head += 1
-            case 2:     # for tails
+            case 2:
                 tails += 1
         flips += 1
     return f'There were {head} heads and {tails} tails'
