@@ -15,17 +15,14 @@ def display_instruct():
         """
         Witaj w największym intelektualnym wyzwaniu wszech czasów, jakim jest
         gra 'Kółko i krzyżyk'. Będzie to ostateczna rozgrywka między Twoim
-        ludzkim mózgiem a moim krzemowym procesorem.  
-    
+        ludzkim mózgiem a moim krzemowym procesorem.\n\n
         Swoje posunięcie wskażesz poprzez wprowadzenie liczby z zakresu 0 - 8.
-        Liczba ta odpowiada pozycji na planszy zgodnie z poniższym schematem:
-    
+        Liczba ta odpowiada pozycji na planszy zgodnie z poniższym schematem:\n
                         0 | 1 | 2
                         ---------
                         3 | 4 | 5
                         ---------
-                        6 | 7 | 8
-    
+                        6 | 7 | 8\n
         Przygotuj się, Człowieku.  Ostateczna batalia niebawem się rozpocznie. \n
         """
     )
@@ -64,7 +61,7 @@ def pieces():
 def new_board():
     """Utwórz nową planszę gry."""
     board = []
-    for square in range(NUM_SQUARES):
+    for _ in range(NUM_SQUARES):
         board.append(EMPTY)
     return board
 
@@ -89,7 +86,7 @@ def legal_moves(board):
 
 def winner(board):
     """Ustal zwycięzcę gry."""
-    WAYS_TO_WIN = ((0, 1, 2),
+    ways_to_win = ((0, 1, 2),
                    (3, 4, 5),
                    (6, 7, 8),
                    (0, 3, 6),
@@ -98,10 +95,10 @@ def winner(board):
                    (0, 4, 8),
                    (2, 4, 6))
 
-    for row in WAYS_TO_WIN:
+    for row in ways_to_win:
         if board[row[0]] == board[row[1]] == board[row[2]] != EMPTY:
-            winner = board[row[0]]
-            return winner
+            victor = board[row[0]]
+            return victor
 
     if EMPTY not in board:
         return TIE
@@ -126,7 +123,7 @@ def computer_move(board, computer, human):
     # utwórz kopię roboczą, ponieważ funkcja będzie zmieniać listę
     board = board[:]
     # najlepsze pozycje do zajęcia według kolejności
-    BEST_MOVES = (4, 0, 2, 6, 8, 1, 3, 5, 7)
+    best_moves = (4, 0, 2, 6, 8, 1, 3, 5, 7)
 
     print("Wybieram pole numer", end=" ")
 
@@ -149,7 +146,7 @@ def computer_move(board, computer, human):
         board[move] = EMPTY
 
     # ponieważ nikt nie może wygrać w następnym ruchu, wybierz najlepsze wolne pole
-    for move in BEST_MOVES:
+    for move in best_moves:
         if move in legal_moves(board):
             print(move)
             return move
@@ -159,8 +156,7 @@ def next_turn(turn):
     """Zmień wykonawcę ruchu."""
     if turn == X:
         return O
-    else:
-        return X
+    return X
 
 
 def congrat_winner(the_winner, computer, human):
