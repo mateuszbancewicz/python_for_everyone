@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/chapter_7/kwiz.txt" charset="windows-1250" />
-    <file url="file://$PROJECT_DIR$/chapter_7/top10.pickle" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/chapter_7_files_exceptions/kwiz.txt" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/chapter_7_files_exceptions/top10.pickle" charset="windows-1250" />
   </component>
 </project>

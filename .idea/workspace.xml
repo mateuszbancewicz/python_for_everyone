@@ -4,14 +4,53 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad8479b0-52f7-4347-870f-13516a10f406" name="Changes" comment="Pylint changes">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_7/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_7/exc1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_7/exc2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_7/exc3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_7/kwiz.txt" afterDir="false" />
+    <list default="true" id="ad8479b0-52f7-4347-870f-13516a10f406" name="Changes" comment="Exercises from chapter 7">
+      <change afterPath="$PROJECT_DIR$/chapter_8_oop/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_8_oop/exc1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_8_oop/exc2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_8_oop/exc3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_8_oop/exc4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_1/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_1_introduction/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_1/.idea/chapter_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_1_introduction/.idea/chapter_1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_1/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_1_introduction/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_1/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_1_introduction/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_1_introduction/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_1_introduction/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_1_introduction/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_1/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_1_introduction/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_1/exc1.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_1_introduction/exc1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_1/exc2.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_1_introduction/exc2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_1/exc3.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_1_introduction/exc3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_2/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_2_types_variables_simple_operations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_2/exc2.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_2_types_variables_simple_operations/exc2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_2/exc3.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_2_types_variables_simple_operations/exc3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_2/exc4.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_2_types_variables_simple_operations/exc4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_3/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_3_while/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_3/exc1.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_3_while/exc1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_3/exc2.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_3_while/exc2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_3/exc3.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_3_while/exc3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_3/exc4.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_3_while/exc4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_4/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_4_for_strings_tuples/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_4/exc1.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_4_for_strings_tuples/exc1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_4/exc2.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_4_for_strings_tuples/exc2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_4/exc3.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_4_for_strings_tuples/exc3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_4/exc4.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_4_for_strings_tuples/exc4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_5/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_5_lists_dicts/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_5/exc1.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_5_lists_dicts/exc1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_5/exc2.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_5_lists_dicts/exc2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_5/exc3.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_5_lists_dicts/exc3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_6/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_6_functions/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_6/exc1.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_6_functions/exc1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_6/exc2.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_6_functions/exc2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_6/exc3.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_6_functions/exc3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_6/exc4.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_6_functions/exc4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_7/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_7_files_exceptions/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_7/exc1.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_7_files_exceptions/exc1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_7/exc2.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_7_files_exceptions/exc2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_7/exc3.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_7_files_exceptions/exc3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_7/kwiz.txt" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_7_files_exceptions/kwiz.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,15 +81,15 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="Python" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/chapter_7" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Banca\PycharmProjects\python_for_everyone\chapter_7" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.exc3">
-    <configuration name="exc1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.exc4">
+    <configuration name="exc1 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_for_everyone" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,11 +97,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_8_oop" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_7/exc1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_8_oop/exc1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exc1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exc2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_for_everyone" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,11 +118,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_8_oop" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_6/exc1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_8_oop/exc2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exc2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exc3 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_for_everyone" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,11 +139,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_8_oop" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_7/exc2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_8_oop/exc3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,7 +173,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="scratch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exc4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_for_everyone" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,11 +181,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_8_oop" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_8_oop/exc4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.exc4" />
+        <item itemvalue="Python.exc3 (1)" />
+        <item itemvalue="Python.exc2 (1)" />
+        <item itemvalue="Python.exc1 (2)" />
         <item itemvalue="Python.exc3" />
-        <item itemvalue="Python.exc2" />
-        <item itemvalue="Python.scratch" />
-        <item itemvalue="Python.exc1 (1)" />
-        <item itemvalue="Python.exc1" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +234,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647520881710</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Exercises from chapter 7">
+      <created>1647958487530</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1647958487530</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -213,25 +259,26 @@
     <MESSAGE value="Exercises from chapter 5" />
     <MESSAGE value="Exercises from chapter 6" />
     <MESSAGE value="Pylint changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pylint changes" />
+    <MESSAGE value="Exercises from chapter 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercises from chapter 7" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/chapter_6/exc1.py</url>
+          <url>file://$PROJECT_DIR$/chapter_6_functions/exc1.py</url>
           <line>1</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/chapter_7/exc2.py</url>
+          <url>file://$PROJECT_DIR$/chapter_7_files_exceptions/exc2.py</url>
           <line>16</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/chapter_7/exc3.py</url>
-          <line>13</line>
-          <option name="timeStamp" value="9" />
+          <url>file://$PROJECT_DIR$/chapter_7_files_exceptions/exc3.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -1,4 +1,4 @@
-from chapter_7.exc1 import open_file, next_line, next_block
+from chapter_7_files_exceptions.exc1 import open_file, next_line, next_block
 
 
 def generate_player():
